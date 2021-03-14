@@ -1,0 +1,49 @@
+   ------------------
+ /                    \
+|  CH-    CH     CH+   |
+| FFA25D FF629D FFE21D |
+|                      |
+|  |<<     >>|   |>||  |
+| FF22DD FF02FD FFC23D |
+|                      |
+|   -       +     EQ   |
+| FFE01F FFA857 FF906F |
+|                      |
+|   0      100+  200+  |
+| FF6897 FF9867 FFB04F |
+|                      |
+|   1       2     3    |
+| FF30CF FF18E7 FF7A85 |
+|                      |
+|   4       5     6    |
+| FF10EF FF38C7 FF5AA5 |
+|                      |
+|   7       8     9    |
+| FF42BD FF4AB5 FF52AD |
+|                      |
+|         Car          |
+|         mp3          |
+ \                    /
+   ------------------
+(FFFFFFFF for repeat when a button is held)
+
+
+   -------------------
+ /                     \
+|  On            Mute   |
+| 4FB906F      4FBBF807 |
+|                       |
+|                       |
+|   1       2     3     |
+|4FB8877 4FBA857 4FBE817|
+|                       |
+|   4       5     6     |
+|4FB807F 4FB48B7 4FBF00F|
+|                menu   |
+|   -             +     |
+| 4FB58A7      4FB708F  |
+|                       |
+|   ZERO @ ZONE         |
+|                       |
+ \                     /
+   -------------------

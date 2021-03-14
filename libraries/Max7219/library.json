@@ -1,0 +1,27 @@
+{
+    "name": "Max7219",
+    "keywords": "display",
+    "description": "Max7219 library",
+    "authors":
+    [
+        {
+            "name": "Sylvain Frere",
+            "email": "syfre92@gmail.com",
+            "url": "https://github.com/syfre/Max7219",
+            "maintainer": true
+        }
+    ],
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/syfre/Max7219.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "atmelsam",
+    "examples":
+    [
+        "examples/*/*.pde"
+    ]
+}
